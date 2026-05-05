@@ -1,0 +1,9 @@
+{
+  "name": "KRCT Online Lost and Found Portal",
+  "description": "A comprehensive portal for students and staff of KRCT to report and find lost items using AI-powered matching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
