@@ -1,20 +1,57 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+# 🚀 Online Lost and Found Portal  
 
-This contains everything you need to run your app locally.
+A smart web-based platform to help users easily report, search, and recover lost items within a campus environment.  
 
-View your app in AI Studio: https://ai.studio/apps/dfbcb3b2-0bad-4a1d-85cd-ab7d061585e2
+---
 
-## Run Locally
+## 📌 Project Overview  
+The Online Lost and Found Portal replaces traditional notice boards and manual registers with a centralized digital system.  
+Users can post lost/found items, search for matches, and connect with others efficiently.  
 
-**Prerequisites:**  Node.js
+---
+
+## ✨ Key Features  
+- 🔐 Secure User Authentication (College Email Login)  
+- 📦 Post Lost & Found Items with Images  
+- 🔎 Advanced Search & Filtering  
+- 🤖 AI-Based Item Matching  
+- 📊 User Dashboard for Tracking Items  
+- 📧 Contact & Notification System  
+
+---
+
+## 🛠️ Technologies Used  
+- Frontend: React, HTML, CSS, JavaScript  
+- Backend: Node.js, Express  
+- Database: MongoDB  
+- Tools: VS Code, GitHub  
+
+---
+
+## 🎯 Objectives  
+- Provide a centralized system for lost & found items  
+- Improve communication between users  
+- Reduce manual effort and time  
+- Increase chances of successful item recovery  
+
+---
+
+## 🚧 Future Enhancements  
+- 📱 Mobile Application  
+- 💬 Real-time Chat System  
+- 🧠 Advanced AI Image Matching  
+- 🔔 Instant Notifications  
+- ☁️ Cloud Integration  
+
+---
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+## 🏫 Institution  
+K Ramakrishnan College of Technology  
+
+
+⭐ If you like this project, give it a star!
+```
+
